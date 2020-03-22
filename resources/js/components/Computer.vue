@@ -28,7 +28,7 @@
                 })
                 .catch(error => {
                     // console.log(error);
-                    this.compMove = 'Error getting that sweet sweet Kanye Quote';
+                    this.compMove = "Error getting Computer's move";
                 });
             }
         }
